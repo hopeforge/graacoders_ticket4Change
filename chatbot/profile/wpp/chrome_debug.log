@@ -1,0 +1,7 @@
+[13308:19148:1207/030309.569:ERROR:cache_util_win.cc(21)] Unable to move the cache: Acesso negado. (0x5)
+[13308:19148:1207/030309.570:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\drximenes\Documents\GRAACODERS\App\graacoders_ticket4Change\chatbot\profile\wpp\ShaderCache\GPUCache to C:\Users\drximenes\Documents\GRAACODERS\App\graacoders_ticket4Change\chatbot\profile\wpp\ShaderCache\old_GPUCache_000
+[13308:19148:1207/030309.571:ERROR:disk_cache.cc(178)] Unable to create cache
+[13308:19148:1207/030309.571:ERROR:shader_disk_cache.cc(601)] Shader Cache Creation failed: -2
+[13308:12596:1207/030309.767:WARNING:pref_notifier_impl.cc(40)] Pref observer for browser.relaunch_notification_period found at shutdown.
+[13952:10888:1207/030335.062:WARNING:pref_notifier_impl.cc(40)] Pref observer for browser.relaunch_notification_period found at shutdown.
+[13952:10888:1207/030335.062:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
